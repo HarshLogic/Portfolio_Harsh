@@ -71,7 +71,7 @@ const Projects = () => {
               View All Repos
             </a>
             <a
-              href="https://drive.google.com/file/d/1ru8QZ1eBtqNJAuThF3Xk0zOlQnOIdzGI/view?usp=sharing"
+              href="https://drive.google.com/file/d/1-ue__YwL_Va8W2im47U3i1yswCXRoUTT/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 text-sm rounded-full px-5 py-2 border border-cyan-600/40 text-cyan-300 hover:bg-cyan-600/10 transition"
