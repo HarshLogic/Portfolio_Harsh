@@ -56,6 +56,14 @@ const Projects = () => {
           key="5"
           github="https://github.com/HarshLogic/STOCK_MARK"
         />
+        <ProjectCard
+          src="/C2_Beaconing.png"
+          title="C2 Beaconing Detection & Blast Radius Analysis"
+          description="An advanced, data-driven cybersecurity framework designed to detect stealthy Command and Control (C2) beaconing in network traffic and visualize threat propagation using Machine Learning and Graph Theory."
+          link="https://github.com/HarshLogic/C2-Beaconing-Detection"
+          key="6"
+          github="https://github.com/HarshLogic/C2-Beaconing-Detection"
+        />
         <div className="col-span-full flex flex-col items-center space-y-4 mt-4">
           <p className="text-center text-gray-500 text-sm max-w-2xl">
             Looking for more? Visit my GitHub profile for all repositories, more recent work, and latest projects.
