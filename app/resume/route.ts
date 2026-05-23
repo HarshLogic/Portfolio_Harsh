@@ -4,7 +4,7 @@
 
 import { NextRequest } from "next/server";
 
-const RESUME_URL = "https://drive.google.com/file/d/1-ue__YwL_Va8W2im47U3i1yswCXRoUTT/view?usp=sharing";
+const RESUME_URL = "https://drive.google.com/file/d/1zC9pQzsjJuwaad4PNro-UKphxbUz5MGl/view?usp=sharing";
 
 export function GET(_req: NextRequest) {
   // 302 (temporary) so future updates don't get cached permanently by browsers/CDNs
