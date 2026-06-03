@@ -354,8 +354,8 @@ export const achievementData: AchievementItem[] = [
   //   description: "Achieved 2-star on CodeChef."
   // },
   {
-    title: "600+ Problems Solved",
-    description: "Solved 600+ algorithmic problems across LeetCode, CodeChef, and GeeksforGeeks."
+    title: "650+ Problems Solved",
+    description: "Solved 650+ algorithmic problems across LeetCode, CodeChef, and GeeksforGeeks."
   },
   {
     title: "SIH 2025 Semi-Finalist",
