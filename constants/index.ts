@@ -403,7 +403,7 @@ export const leadershipData: LeadershipItem[] = [
     period: "Jan 2025 - Present",
   },
   {
-    role: "Volunteer - Smart India Hackathon 2025",
+    role: "Team Leader - Smart India Hackathon 2025",
     organization: "SIH 2025, Ministry of Education, Government of India",
     period: "Nov 2024",
   },
