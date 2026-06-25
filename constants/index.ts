@@ -347,15 +347,15 @@ export interface AchievementItem {
 export const achievementData: AchievementItem[] = [
   {
     title: "Rating on LeetCode",
-    description: "Top 40% in LeetCode contests."
+    description: "Top 30% in LeetCode contests."
   },
-  // {
-  //   title: "2★ on CodeChef",
-  //   description: "Achieved 2-star on CodeChef."
-  // },
   {
-    title: "650+ Problems Solved",
-    description: "Solved 650+ algorithmic problems across LeetCode, CodeChef, and GeeksforGeeks."
+    title: "2★ on CodeChef",
+    description: "Achieved 2-star on CodeChef."
+  },
+  {
+    title: "750+ Problems Solved",
+    description: "Solved 750+ algorithmic problems across LeetCode, CodeChef, and GeeksforGeeks."
   },
   {
     title: "SIH 2025 Semi-Finalist",
