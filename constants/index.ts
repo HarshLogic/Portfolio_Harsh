@@ -300,6 +300,20 @@ export interface ExperienceItem {
 
 export const experienceData: ExperienceItem[] = [
   {
+  role: "AI & Data Science Intern",
+  company: "XYlofy AI",
+  period: "Jun 2026 - Jul 2026",
+  summary: "Remote · Bengaluru, India",
+  highlights: [
+    "Engineered end-to-end time-series forecasting pipelines in Python for 1,000+ retail products using 10,000+ historical records.",
+    "Developed a Demand Intelligence Dashboard with anomaly detection and feature scaling, reducing weekly stock allocation decision time by 30%.",
+    "Optimized preprocessing through Exploratory Data Analysis (EDA) and feature engineering, improving runtime and space efficiency by 25%.",
+    "Built an Employee Attrition Prediction system by benchmarking XGBoost, Random Forest, and Logistic Regression, achieving over 85% predictive accuracy through cross-validation and hyperparameter tuning.",
+    "Identified the top five attrition drivers and clustered retail demand patterns, contributing to a 15% reduction in overall corporate costs."
+  ],
+  // technologies: ["Python",  "NumPy","Pandas","EDA","Machine Learning","XGBoost","Random Forest","Logistic Regression","Data Visualization","Data Structures"]
+},
+  {
     role: "Digital Marketing & Web Development Intern",
     company: "Kabhi Tech",
     period: "Jan 2024 - Mar 2024",
@@ -347,7 +361,7 @@ export interface AchievementItem {
 export const achievementData: AchievementItem[] = [
   {
     title: "Rating on LeetCode",
-    description: "Top 30% in LeetCode contests."
+    description: "1602 Contests Rating, Top 24% in LeetCode contests."
   },
   {
     title: "2★ on CodeChef",
