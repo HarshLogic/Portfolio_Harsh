@@ -305,11 +305,14 @@ export const experienceData: ExperienceItem[] = [
   period: "Jun 2026 - Jul 2026",
   summary: "Remote · Bengaluru, India",
   highlights: [
-    "Engineered end-to-end time-series forecasting pipelines in Python for 1,000+ retail products using 10,000+ historical records.",
-    "Developed a Demand Intelligence Dashboard with anomaly detection and feature scaling, reducing weekly stock allocation decision time by 30%.",
-    "Optimized preprocessing through Exploratory Data Analysis (EDA) and feature engineering, improving runtime and space efficiency by 25%.",
-    "Built an Employee Attrition Prediction system by benchmarking XGBoost, Random Forest, and Logistic Regression, achieving over 85% predictive accuracy through cross-validation and hyperparameter tuning.",
-    "Identified the top five attrition drivers and clustered retail demand patterns, contributing to a 15% reduction in overall corporate costs."
+    "Worked on end-to-end machine learning projects using Python, Pandas, NumPy, Scikit-learn, and XGBoost to solve real-world business problems.",
+    "Built a Demand Intelligence System using time-series forecasting on 10,000+ historical sales records across 1,000+ retail products, reducing stock allocation decision time by 30%.",
+    "Developed a Demand Intelligence Dashboard with anomaly detection, feature engineering, and data visualization to support inventory planning and business insights.",
+    "Designed an Employee Attrition Prediction System by comparing XGBoost, Random Forest, and Logistic Regression models, achieving over 85% predictive accuracy through hyperparameter tuning and cross-validation.",
+    "Identified the top five factors influencing employee attrition using feature importance analysis, enabling data-driven workforce retention strategies.",
+    "Implemented end-to-end regression pipelines for a House Price Prediction model, covering data preprocessing, EDA, feature engineering, model training, and evaluation.",
+    "Improved model efficiency by 25% through optimized preprocessing techniques and scalable machine learning workflows.",
+    "Generated actionable insights using clustering, visualization, and predictive analytics to support business decision-making."
   ],
   // technologies: ["Python",  "NumPy","Pandas","EDA","Machine Learning","XGBoost","Random Forest","Logistic Regression","Data Visualization","Data Structures"]
 },
@@ -394,7 +397,7 @@ export const educationData: EducationItem[] = [
     degree: "Bachelor of Technology - BTech, Information Technology",
     institution: "Bhagwan Parshuram Institute Of Technology - (GGSIPU Delhi)",
     period: "Aug 2024 - May 2027",
-    description: "Top 1% student in Information Technology department, With CGPA of 9.25"
+    description: "Top 1% student in Information Technology department, With CGPA of 9.28"
   },
   {
     degree: "Diploma, Computer Science",
