@@ -403,13 +403,14 @@ export const educationData: EducationItem[] = [
     institution: "Bhagwan Parshuram Institute Of Technology - (GGSIPU Delhi)",
     period: "Aug 2024 - May 2027",
     CGPA: "CGPA - 9.28",
-    description: "Top 1% student in Information Technology department, With CGPA of 9.28"
+    description: "CGPA - 9.28"
   },
   {
     degree: "Diploma, Computer Science",
     institution: "Amity University, Uttar Pradesh",
     CGPA: "CGPA - 8.08",
-    period: "Jul 2021 - May 2024"
+    period: "Jul 2021 - May 2024",
+    description: "CGPA - 8.08"
   }
 ];
 
@@ -424,7 +425,7 @@ export const leadershipData: LeadershipItem[] = [
   {
     role: "Social Media Head - Optic Click ",
     organization: "Optic Click - Photography Club of BPIT",
-    period: "Jan 2025 - Present",
+    period: "Jan 2025 - Aug 2026",
   },
   {
     role: "Team Leader - Smart India Hackathon 2025",
@@ -434,7 +435,7 @@ export const leadershipData: LeadershipItem[] = [
   {
     role: "Member",
     organization: "Drishti - Rotarct Club of BPIT",
-    period: "Oct 2025 - Present",
+    period: "Oct 2025 - Aug 2026",
   },
   {
     role: "Member",
@@ -449,6 +450,6 @@ export const leadershipData: LeadershipItem[] = [
   {
     role: "Project Chair",
     organization: "Research and Development Cell (Machine Learning) - BPIT",
-    period: "Mar 2025 - Present",
+    period: "Mar 2025 - Jun 2026",
   }
 ];
