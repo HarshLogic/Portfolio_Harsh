@@ -399,7 +399,7 @@ export interface EducationItem {
 
 export const educationData: EducationItem[] = [
   {
-    degree: "Bachelor of Technology - BTech, Information Technology",
+    degree: "Bachelor of Technology, Information Technology",
     institution: "Bhagwan Parshuram Institute Of Technology - (GGSIPU Delhi)",
     period: "Aug 2024 - May 2027",
     CGPA: "CGPA - 9.28",
