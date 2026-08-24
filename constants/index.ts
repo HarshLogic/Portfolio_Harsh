@@ -371,8 +371,12 @@ export const achievementData: AchievementItem[] = [
     description: "Achieved 2-star on CodeChef."
   },
   {
-    title: "750+ Problems Solved",
-    description: "Solved 750+ algorithmic problems across LeetCode, CodeChef, and GeeksforGeeks."
+    title: "780+ Problems Solved",
+    description: "Solved 780+ algorithmic problems across LeetCode, CodeChef, and GeeksforGeeks."
+  },
+  {
+    title: "Flipkart GRiD 8.0 Semi Finalist",
+    description: "Secured a position in the semi-finals."
   },
   {
     title: "SIH 2025 Semi-Finalist",
@@ -389,6 +393,7 @@ export interface EducationItem {
   degree: string;
   institution: string;
   period: string;
+  CGPA: string;
   description?: string;
 }
 
@@ -397,11 +402,13 @@ export const educationData: EducationItem[] = [
     degree: "Bachelor of Technology - BTech, Information Technology",
     institution: "Bhagwan Parshuram Institute Of Technology - (GGSIPU Delhi)",
     period: "Aug 2024 - May 2027",
+    CGPA: "CGPA - 9.28",
     description: "Top 1% student in Information Technology department, With CGPA of 9.28"
   },
   {
     degree: "Diploma, Computer Science",
     institution: "Amity University, Uttar Pradesh",
+    CGPA: "CGPA - 8.08",
     period: "Jul 2021 - May 2024"
   }
 ];
