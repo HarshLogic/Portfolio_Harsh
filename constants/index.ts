@@ -364,15 +364,15 @@ export interface AchievementItem {
 export const achievementData: AchievementItem[] = [
   {
     title: "Rating on LeetCode",
-    description: "1602 Contests Rating, Top 24% in LeetCode contests."
+    description: "1650 Contests Rating, Top 22% in LeetCode contests."
   },
   {
     title: "2★ on CodeChef",
     description: "Achieved 2-star on CodeChef."
   },
   {
-    title: "780+ Problems Solved",
-    description: "Solved 780+ algorithmic problems across LeetCode, CodeChef, and GeeksforGeeks."
+    title: "850+ Problems Solved",
+    description: "Solved 850+ algorithmic problems across LeetCode, CodeChef, and GeeksforGeeks."
   },
   {
     title: "Flipkart GRiD 8.0 Semi Finalist",
