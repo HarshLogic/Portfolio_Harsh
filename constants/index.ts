@@ -364,7 +364,7 @@ export interface AchievementItem {
 export const achievementData: AchievementItem[] = [
   {
     title: "Rating on LeetCode",
-    description: "1650 Contests Rating, Top 22% in LeetCode contests."
+    description: "1650 Contests Rating, Top 18% in LeetCode contests."
   },
   {
     title: "2★ on CodeChef",
